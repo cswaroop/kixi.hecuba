@@ -254,3 +254,18 @@ may be some circumstances where there are multiple elements / systems
 / technologies present (e.g. heating and hot water systems). If this
 is the case then the relevant rows can be duplicated, ensuring that
 the primary system comes first.
+
+
+# Adding Devices and Sensors
+
+![Devices and Sensors](devices-and-sensors.png)
+
+![Created device and sensor](created-device.png)
+
+# Uploading Measurements
+
+The preferred way to enter measurements into the system is via the
+AMON API. If you have legacy data to upload that is already in or can
+be converted to csv then those can be uploaded too.
+
+![Uploading measurments csv](upload-measurements.png)
