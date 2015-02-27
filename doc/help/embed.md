@@ -85,6 +85,18 @@ Projects must have a project name.
 
 # Uploading Property Details
 
+You can upload a csv file to create a property with profile
+details.
+
+![Property upload](add-properties.png)
+
+To make it easier to create the csv an Excel template has been
+created. To use it, fill in the Excel spreadsheet as below and save
+the file as csv when you are done. The csv can be uploaded as in the
+picture above.
+
+## Property Details Form
+
 [This Excel spreadsheet](example-property.xlsx) has been designed to
 comprehensively capture the diverse range of building characteristics
 (house type, construction, technologies installed); plus very
@@ -117,7 +129,7 @@ Some cells have comments boxes that contain further information and
 guidance. These are identified by a small red tag in the top right
 corner of the cell.
 
-## Important information:
+### Important information:
 
 This workbook collects information from a single property in your
 study. A different datasheet must be completed for each property being
@@ -158,7 +170,7 @@ There are 5 types of data entry cell:
 There are some cells that require more specific information and
 guidance is given below
 
-### Property code (row 3)
+#### Property code (row 3)
 
 Please use a name / code to identify this property. This should be the
 same name / code that you have been using to describe this property
@@ -173,7 +185,7 @@ multiple workbooks. But remember to use a different property code,
 consistent with your reporting, to identify it as a different
 property.
 
-### Event (row 4)
+#### Event (row 4)
 
 We are collecting information on different stages of the build and
 Embed has four "event types" to achieve this:
@@ -195,7 +207,7 @@ Embed has four "event types" to achieve this:
   classified as an intervention. The intervention must be dated as
   accurately as possible.
 
-### Timestamp (row 5)
+#### Timestamp (row 5)
 
 This is needed primarily for tracking intervention dates, but the
 system requires a date for create, as designed and as built. For ease
@@ -204,13 +216,13 @@ approximate date for when the original designs were drawn-up for the
 "as designed" value, and the approximate date for when the development
 started for the "as built" value.
 
-### Project details section (rows 27 to 32)
+#### Project details section (rows 27 to 32)
 
 The responses to these questions should be reasonably brief but
 informative and have a proper sentence structure to give context to
 the project.
 
-### Approach / lessons learnt (rows 35 to 40):
+#### Approach / lessons learnt (rows 35 to 40):
 
 There are two responses required for these items. For the "as
 designed" information please outline the intentions and approach. For
@@ -218,7 +230,7 @@ the "as built" information please respond from the position of lessons
 learnt. As above the responses to these questions should be reasonably
 brief but informative and have a proper sentence structure.
 
-### Airtightness (row 89):
+#### Airtightness (row 89):
 
 Add the target airtightness at design stage in the "as designed" value
 column.  For the BPE mandatory airtightness test (Phase 1 and 2
@@ -227,14 +239,14 @@ test (carried out at the end of Phase 2 studies only) create a new
 intervention and add the airtightness test result in the intervention
 column
 
-### BUS survey (rows 92 to 103):
+#### BUS survey (rows 92 to 103):
 
 Please give the BUS result between 1 and 7. This is taken from the BUS
 Summary (overall variables table) which was supplied by Arup. Please
 complete this for "as built" only.  If a second BUS has been
 undertaken please add this as an intervention
 
-### Row 105 onwards (fabric, systems and technologies):
+#### Row 105 onwards (fabric, systems and technologies):
 
 Generally we are expecting a response for each technology present and
 the predominant performance values for fabric elements. However there
